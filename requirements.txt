@@ -22,7 +22,7 @@ GitPython
 netlify-py
 Markdown
 xhtml2pdf
-mistralai
+mistral-common
 Flask-SocketIO
 eventlet
 groq
