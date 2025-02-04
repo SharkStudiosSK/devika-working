@@ -1,5 +1,5 @@
 import os
-from mistralai import Mistral, UserMessage  # Updated import from mistralai
+from mistral-common import Mistral, UserMessage  # Updated import from mistralai
 
 from src.config import Config
 
